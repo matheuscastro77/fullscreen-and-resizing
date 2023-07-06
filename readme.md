@@ -2,7 +2,7 @@
 
 ## DEPLOY 
 
-https://fullscreen-and-resizing.vercel.app/
+[Fullscreen and Resizing](https://fullscreen-and-resizing.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
